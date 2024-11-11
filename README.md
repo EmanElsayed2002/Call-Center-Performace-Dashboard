@@ -1,0 +1,2 @@
+### Call Center Performance Dashboard
+The Call Center Performance Dashboard is a data visualization tool that provides real-time insights into key call center metrics. This dashboard helps managers and analysts monitor call center performance, including metrics such as call volume, average handling time, customer satisfaction, and agent productivity, enabling data-driven decisions to improve customer service.
